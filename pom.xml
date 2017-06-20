@@ -42,7 +42,7 @@
         <module>panda-remoting-api</module>
         <module>panda-remoting-netty</module>
         <module>panda-rpc-api</module>
-        <module>panda</module>
+        <module>panda-assembly</module>
     </modules>
     <profiles>
         <profile>
