@@ -22,7 +22,7 @@
         <artifactId>panda-parent</artifactId>
         <version>2.5.4-SNAPSHOT</version>
     </parent>
-    <artifactId>panda</artifactId>
+    <artifactId>panda-assembly</artifactId>
     <packaging>jar</packaging>
     <name>${project.artifactId}</name>
     <description>The all in one project of panda</description>
